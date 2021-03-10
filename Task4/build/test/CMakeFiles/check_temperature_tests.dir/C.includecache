@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Task4/check_temperature.h
+
+../include/Task4/do_alarm.h
+stdio.h
+-
+
+/home/ivan/SoftwareDevelopmentTechnologiesTasks/Task4/src/check_temperature.c
+Task4/check_temperature.h
+/home/ivan/SoftwareDevelopmentTechnologiesTasks/Task4/src/Task4/check_temperature.h
+
+/home/ivan/SoftwareDevelopmentTechnologiesTasks/Task4/src/do_alarm.c
+Task4/do_alarm.h
+/home/ivan/SoftwareDevelopmentTechnologiesTasks/Task4/src/Task4/do_alarm.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Task4.dir/src/Task4.c.o CMakeFiles/Task4.dir/src/check_temperature.c.o CMakeFiles/Task4.dir/src/do_alarm.c.o  -o ../bin/Task4 
